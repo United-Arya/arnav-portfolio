@@ -1,5 +1,6 @@
 {
   "name": "arnav-portfolio-new",
+  "homepage": "https://United-Arya.github.io/arnav-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,13 +13,17 @@
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.9.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,6 +45,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.27",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.8",
     "tailwindcss": "^3.4.19"
   }
