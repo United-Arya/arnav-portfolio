@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/arnav-portfolio/static/css/main.54930982.css",
-    "main.js": "/arnav-portfolio/static/js/main.ab708d1c.js",
+    "main.js": "/arnav-portfolio/static/js/main.1a75e994.js",
     "static/js/453.76513c5c.chunk.js": "/arnav-portfolio/static/js/453.76513c5c.chunk.js",
     "static/media/profile.jpg": "/arnav-portfolio/static/media/profile.d518f8c0dc955811f7ac.jpg",
     "index.html": "/arnav-portfolio/index.html",
     "main.54930982.css.map": "/arnav-portfolio/static/css/main.54930982.css.map",
-    "main.ab708d1c.js.map": "/arnav-portfolio/static/js/main.ab708d1c.js.map",
+    "main.1a75e994.js.map": "/arnav-portfolio/static/js/main.1a75e994.js.map",
     "453.76513c5c.chunk.js.map": "/arnav-portfolio/static/js/453.76513c5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54930982.css",
-    "static/js/main.ab708d1c.js"
+    "static/js/main.1a75e994.js"
   ]
 }
